@@ -74,3 +74,23 @@ A practical project to demonstrate reusable automation tests and maintainable te
 <p align="center">
   <i>Quality is everyone's responsibility; automation helps us deliver it consistently.</i>
 </p>
+
+
+## 🚀 Featured QA Automation Projects
+
+### 🎭 [Playwright Automation Practice](https://github.com/Lingarajmb/Playwright_Practice)
+- Practical UI automation using Playwright and JavaScript.
+- Test execution, assertions, screenshots, retries, and HTML reporting.
+- GitHub Actions CI workflow for automated test execution.
+
+### 📚 [Playwright 45-Day Learning Journey](https://github.com/Lingarajmb/Playwright-learning-45-days)
+- Structured learning journey covering JavaScript and Playwright.
+- Hands-on practice with locators, browser interactions, and assertions.
+- Progressive development of automation skills.
+
+### 🧪 [Playwright Mini Project](https://github.com/Lingarajmb/Playwright_MiniProject)
+- Practice project for organizing and maintaining automated tests.
+- Focus on reusable code, test scenarios, and automation best practices.
+
+---
+
